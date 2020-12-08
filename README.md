@@ -10,3 +10,4 @@ Code is for:
 3. run random forest models
 
 
+[![DOI](https://zenodo.org/badge/247043839.svg)](https://zenodo.org/badge/latestdoi/247043839)
